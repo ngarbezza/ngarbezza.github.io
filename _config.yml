@@ -36,6 +36,14 @@ plugins:
 
 permalink: /:title
 
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
+  drafts:
+    output: true
+    permalink: /drafts/:title
+
 header_pages:
   - blog.md
 
