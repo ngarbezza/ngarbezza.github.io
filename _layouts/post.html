@@ -2,9 +2,10 @@
 layout: default
 ---
 
+<small>{{ page.date | date: "%d/%m/%Y" }}</small>
 <h1>{{ page.title }}</h1>
 
-{{ page.content }}
+{{content}}
 
 {%- if jekyll.environment == 'production' -%}
 <div id="disqus_thread"></div>
