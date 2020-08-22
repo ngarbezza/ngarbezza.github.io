@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "initial commit"
+title:  "Initial Commit"
 date:   2020-05-12 20:00:00 -0300
 comments: true
 ---
