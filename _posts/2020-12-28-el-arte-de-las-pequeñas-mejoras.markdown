@@ -41,7 +41,7 @@ Si una persona puede hacer 3 mejoras por semana, 5 personas harán 15. Si a esto
 
 El siguiente video es un gran resumen de lo que es el papel del liderazgo en iniciativas como estas:
 
-{% youtube "https://www.youtube.com/embed/fW8amMCVAJQ" %}
+<iframe width="840" height="475" src="https://www.youtube.com/embed/fW8amMCVAJQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Divide y conquistarás
 
