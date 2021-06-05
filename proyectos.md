@@ -18,10 +18,10 @@ proyecto del que recibí contribuciones de otras personas.
 ¿Qué es? una herramienta de testing simple, sin dependencias. Con un diseño orientado a objetos fácil de seguir. Y la
 funcionalidad mínima necesaria. Está en NPM y tiene un hermoso README con todo lo necesario para instalarla y usarla.
 
-**Repositorio:** https://github.com/ngarbezza/testy
-**Paquete NPM:**
-**Estado:** muy activo
-**Tecnologías:** Node, NPM
+- **Repositorio:** [https://github.com/ngarbezza/testy]()
+- **Paquete NPM:** [https://www.npmjs.com/package/@pmoo/testy]()
+- **Estado:** muy activo
+- **Tecnologías:** Javascript, Node, NPM
 
 ### Dotfiles
 
@@ -31,9 +31,9 @@ la instalación, pero hace unos años cuando lo empecé todo era más artesanal.
 uso en Bash, junto con configuraciones de herramientas que uso cada tanto y scripts que fui recolectando con el paso del
 tiempo.
 
-**Repositorio:** https://github.com/ngarbezza/dotfiles
-**Estado:** activo
-**Tecnologías:** Bash
+- **Repositorio:** [https://github.com/ngarbezza/dotfiles]()
+- **Estado:** activo
+- **Tecnologías:** Bash
 
 ### OOW
 
@@ -45,26 +45,36 @@ un nuevo Javascript para jugar un poco y sólo utilizarlo con fines didácticos.
 OOW viene de "object-oriented way", un camino orientado a objetos para Javascript. Es la pareja de Testy en las herramientas
 que diseñé para la materia de Programación Orientada a Objetos 2 de la UCA.
 
-**Repositorio:**
-**Paquete NPM:**
-**Estado:** con baja actividad
-**Tecnologías:** Node, NPM
+- **Repositorio:** [https://github.com/ngarbezza/oow]()
+- **Paquete NPM:** [https://www.npmjs.com/package/@pmoo/oow]()
+- **Estado:** con baja actividad
+- **Tecnologías:** Javascript, Node, NPM
 
 ### Gobstones-rb
 
 Gobstones fue el lenguaje con el que aprendí a programar y a formar mi pensamiento abstracto. Un día me puse a aprender
 Ruby y TDD y combiné eso con un intérprete de Gobstones, que funciona con una interfaz de línea de comandos.
 
-**Repositorio:** https://github.com/ngarbezza/gobstones-rb
-**Rubygems:**
-**Tecnologías:** Ruby, RSpec, Treetop, Bundler
+- **Repositorio:** [https://github.com/ngarbezza/gobstones-rb]()
+- **Rubygems:** [https://rubygems.org/gems/gobstones]()
+- **Estado:** con baja actividad
+- **Tecnologías:** Ruby, RSpec, Treetop, Bundler
 
 ### Moving motivators
 
 La conocida actividad de Management 3.0, en un formato online para realizarla de manera virtual. O dicho en otras palabras,
 un simple drag-and-drop hecho en Vue.js...
 
-**Disponible en:** https://moving-motivators.netlify.app/
-**Repositorio**
-**Estado:** pausado, necesita más funcionalidades 
-**Tecnologías:** Javascript, Vue.JS
+- **Disponible en:** [https://moving-motivators.netlify.app/]()
+- **Repositorio:** [https://github.com/ngarbezza/moving-motivators]()
+- **Estado:** pausado, necesita más funcionalidades
+- **Tecnologías:** Javascript, Vue.JS
+
+### PR bot
+
+Una simple app que lee de una lista de repositorios los _pull requests_ abiertos y los resume en un mensaje de Slack.
+Puede deployarse gratuitamente y ejecutarse con el plugin de Heroku Scheduler.
+
+- **Repositorio:** [https://github.com/ngarbezza/prbot]()
+- **Estado:** con baja actividad
+- **Tecnologías:** Javascript, Node

@@ -29,7 +29,7 @@ más importante de alguien que escribe software es su capacidad de aprender y ad
 Me gusta escribir artículos y dar [charlas](/presentaciones). Estos son los principales medios que encuentro para
 aprender en profundidad sobre algún tema, y que también me sacan un poco de la zona de confort. La mayor cantidad de
 artículos están aquí y en el [blog de 10Pines](https://blog.10pines.com/author/nahuel/), aunque también tengo algo
-publicado en [Hashnode](https://ngarbezza.hashnode.dev/) y [Dev.to](dev.to/ngarbezza).
+publicado en [Hashnode](https://ngarbezza.hashnode.dev/) y [Dev.to](https://dev.to/ngarbezza).
 
 No utilizo demasiado redes sociales; cada tanto, nerdeo por [Twitter](https://twitter.com/ngarbezza). Me gusta desarrollar
 [proyectos](/proyectos) de código abierto en mis ratos libres. Mi Github es mi portfolio :-)
