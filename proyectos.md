@@ -9,6 +9,13 @@ la van a encontrar en Github.
 
 Aquí algunos de estos proyectos (lo que me da cierto orgullo compartir): 
 
+### Refactorings en Cuis Smalltalk
+
+Este trabajo fue mi tesis de licenciatura, que constó en agregarle al ambiente [Cuis Smalltalk](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev)
+dos refactorings de los más esenciales a la hora de programar: extract method y extract variable.
+
+Pueden ver más detalles del proyecto [aquí](/proyectos/tesis-licenciatura-unq).
+
 ### Testy
 
 El proyecto del que más orgulloso estoy, por varias razones: es una herramienta usable y con alto grado de madurez,
