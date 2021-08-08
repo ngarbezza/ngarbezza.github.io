@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Tesis de Licenciatura (UNQ)"
+comments: true
 categories: proyectos
 ---
 
@@ -30,7 +31,7 @@ programación Cuis Smalltalk con refactorings esenciales", y su resumen es el si
 
 El video de la defensa lo pueden ver por aquí:
 
-<iframe width="740" height="480" src="https://www.youtube.com/embed/rYRJ1X7b9J8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='rYRJ1X7b9J8' %}
 
 La presentación que utilicé durante la defensa:
 
