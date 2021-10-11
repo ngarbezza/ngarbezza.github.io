@@ -39,7 +39,7 @@ uso en Bash, junto con configuraciones de herramientas que uso cada tanto y scri
 tiempo.
 
 - **Repositorio:** [https://github.com/ngarbezza/dotfiles]()
-- **Estado:** activo
+- **Estado:** con baja actividad
 - **Tecnologías:** Bash
 
 ### OOW
@@ -74,8 +74,8 @@ un simple drag-and-drop hecho en Vue.js...
 
 - **Disponible en:** [https://moving-motivators.netlify.app/]()
 - **Repositorio:** [https://github.com/ngarbezza/moving-motivators]()
-- **Estado:** pausado, necesita más funcionalidades
-- **Tecnologías:** Javascript, Vue.JS
+- **Estado:** con baja actividad
+- **Tecnologías:** Javascript, Vue 3.x
 
 ### PR bot
 

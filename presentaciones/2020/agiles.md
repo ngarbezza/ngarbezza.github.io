@@ -7,7 +7,10 @@ categories: presentaciones
 
 ### Resumen
 
-El código legacy está por todas partes. ¿Cómo convivir con él?, ¿Cómo refactorizar sin romper todo, en pequeños pasos y salir a producción los viernes por la tarde con confianza? En esta charla, compartiremos experiencias e intentaremos responder las siguientes preguntas: ¿qué habilidades tienen lxs guerrerxs del código legacy? ¿qué técnicas/herramientas necesitan dominar desde un punto de vista humano y técnico?
+El código legacy está por todas partes. ¿Cómo convivir con él?, ¿Cómo refactorizar sin romper todo, en pequeños pasos
+y salir a producción los viernes por la tarde con confianza? En esta charla, compartiremos experiencias e intentaremos
+responder las siguientes preguntas: ¿qué habilidades tienen lxs guerrerxs del código legacy? ¿qué técnicas/herramientas
+necesitan dominar desde un punto de vista humano y técnico?
 
 ### Video
 
