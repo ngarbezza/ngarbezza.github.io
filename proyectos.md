@@ -5,7 +5,7 @@ title: Proyectos
 
 Tengo más ideas que tiempo para ejecutarlas. Muchos proyectos comenzados y pocos terminados. Así y todo me gusta
 compartir la _cocina_ de cada proyecto, documentar el aprendizaje. Es por eso que toda mi actividad como desarrollador
-la van a encontrar en Github.
+la van a encontrar en [Github](https://github.com/ngarbezza).
 
 Aquí algunos de estos proyectos (lo que me da cierto orgullo compartir): 
 
@@ -25,8 +25,8 @@ proyecto del que recibí contribuciones de otras personas.
 ¿Qué es? una herramienta de testing simple, sin dependencias. Con un diseño orientado a objetos fácil de seguir. Y la
 funcionalidad mínima necesaria. Está en NPM y tiene un hermoso README con todo lo necesario para instalarla y usarla.
 
-- **Repositorio:** [https://github.com/ngarbezza/testy]()
-- **Paquete NPM:** [https://www.npmjs.com/package/@pmoo/testy]()
+- **Repositorio:** [https://github.com/ngarbezza/testy](https://github.com/ngarbezza/testy)
+- **Paquete NPM:** [https://www.npmjs.com/package/@pmoo/testy](https://www.npmjs.com/package/@pmoo/testy)
 - **Estado:** muy activo
 - **Tecnologías:** Javascript, Node, NPM
 
@@ -38,7 +38,7 @@ la instalación, pero hace unos años cuando lo empecé todo era más artesanal.
 uso en Bash, junto con configuraciones de herramientas que uso cada tanto y scripts que fui recolectando con el paso del
 tiempo.
 
-- **Repositorio:** [https://github.com/ngarbezza/dotfiles]()
+- **Repositorio:** [https://github.com/ngarbezza/dotfiles](https://github.com/ngarbezza/dotfiles)
 - **Estado:** con baja actividad
 - **Tecnologías:** Bash
 
@@ -52,8 +52,8 @@ un nuevo Javascript para jugar un poco y sólo utilizarlo con fines didácticos.
 OOW viene de "object-oriented way", un camino orientado a objetos para Javascript. Es la pareja de Testy en las herramientas
 que diseñé para la materia de Programación Orientada a Objetos 2 de la UCA.
 
-- **Repositorio:** [https://github.com/ngarbezza/oow]()
-- **Paquete NPM:** [https://www.npmjs.com/package/@pmoo/oow]()
+- **Repositorio:** [https://github.com/ngarbezza/oow](https://github.com/ngarbezza/oow)
+- **Paquete NPM:** [https://www.npmjs.com/package/@pmoo/oow](https://www.npmjs.com/package/@pmoo/oow)
 - **Estado:** con baja actividad
 - **Tecnologías:** Javascript, Node, NPM
 
@@ -62,8 +62,8 @@ que diseñé para la materia de Programación Orientada a Objetos 2 de la UCA.
 Gobstones fue el lenguaje con el que aprendí a programar y a formar mi pensamiento abstracto. Un día me puse a aprender
 Ruby y TDD y combiné eso con un intérprete de Gobstones, que funciona con una interfaz de línea de comandos.
 
-- **Repositorio:** [https://github.com/ngarbezza/gobstones-rb]()
-- **Rubygems:** [https://rubygems.org/gems/gobstones]()
+- **Repositorio:** [https://github.com/ngarbezza/gobstones-rb](https://github.com/ngarbezza/gobstones-rb)
+- **Rubygems:** [https://rubygems.org/gems/gobstones](https://rubygems.org/gems/gobstones)
 - **Estado:** con baja actividad
 - **Tecnologías:** Ruby, RSpec, Treetop, Bundler
 
@@ -72,8 +72,8 @@ Ruby y TDD y combiné eso con un intérprete de Gobstones, que funciona con una 
 La conocida actividad de Management 3.0, en un formato online para realizarla de manera virtual. O dicho en otras palabras,
 un simple drag-and-drop hecho en Vue.js...
 
-- **Disponible en:** [https://moving-motivators.netlify.app/]()
-- **Repositorio:** [https://github.com/ngarbezza/moving-motivators]()
+- **Disponible en:** [https://moving-motivators.netlify.app/](https://moving-motivators.netlify.app/)
+- **Repositorio:** [https://github.com/ngarbezza/moving-motivators](https://github.com/ngarbezza/moving-motivators)
 - **Estado:** con baja actividad
 - **Tecnologías:** Javascript, Vue 3.x
 
@@ -82,6 +82,6 @@ un simple drag-and-drop hecho en Vue.js...
 Una simple app que lee de una lista de repositorios los _pull requests_ abiertos y los resume en un mensaje de Slack.
 Puede deployarse gratuitamente y ejecutarse con el plugin de Heroku Scheduler.
 
-- **Repositorio:** [https://github.com/ngarbezza/prbot]()
+- **Repositorio:** [https://github.com/ngarbezza/prbot](https://github.com/ngarbezza/prbot)
 - **Estado:** con baja actividad
 - **Tecnologías:** Javascript, Node
