@@ -2,10 +2,10 @@
 
 set -e
 
-if ruby -v | grep -q 2.7.2; then
+if ruby -v | grep -q 3.0.2; then
     echo "You already have the right version of Ruby. Yay!"
 else
-    echo "You need to install Ruby 2.7.2, use your preferred version manager (asdf, rbenv, rvm, chruby or any other)"
+    echo "You need to install Ruby 3.0.2, use your preferred version manager (asdf, rbenv, rvm, chruby or any other)"
     exit 1
 fi
 gem install bundler:2.2.3
