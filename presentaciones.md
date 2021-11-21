@@ -11,7 +11,8 @@ informales dentro de 10Pines o en meetups.
 * [_Desarrollá eficientemente utilizando refactorings_, Nerdearla 101](/presentaciones/2021/nerdearla-101)
 * [_Innovar en el desarrollo de software_, FITS](/presentaciones/2021/fits)
 * [_Aprendiendo testing en Javascript con un enfoque orientado a la simplicidad_, y _Mejorando el ambiente de programación Cuis Smalltalk con refactorings esenciales_, JIF UNQ 2021](/presentaciones/2021/jif-unq)
-* [_Hábitos y Principios para el desarrollo de proyectos open source_, Ágiles 2021](/presentaciones/2021/agiles.md)
+* [_Hábitos y Principios para el desarrollo de proyectos open source_, Ágiles 2021](/presentaciones/2021/agiles)
+* [_Podcast: Lo que callan lxs programadorxs_, Ágiles 2021](/presentaciones/2021/podcast-agiles)
 
 ## 2020
 
