@@ -48,10 +48,11 @@ google_analytics: G-XVLT22J2WF
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-youtube
+  - jekyll-remote-theme
 
 permalink: /:title
 
