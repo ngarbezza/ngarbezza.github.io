@@ -3,6 +3,7 @@ title: 6 tips para una exitosa sesión de TDD
 author: Nahuel Garbezza
 pubDatetime: 2019-11-05T12:00:00
 postSlug: 6-tips-para-una-exitosa-sesion-de-tdd
+canonicalUrl: https://blog.10pines.com/es/2019/11/05/6-tips-para-una-exitosa-sesion-de-tdd/
 featured: true
 draft: false
 tags:
