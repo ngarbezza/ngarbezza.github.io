@@ -17,13 +17,10 @@ const {
   author = SITE.author,
   description = SITE.desc,
   ogImage = SITE.ogImage,
-  canonicalUrl = new URL(Astro.url.pathname, Astro.site),
+  canonicalUrl = new URL(Astro.url.pathname, Astro.site).href,
 } = Astro.props;
 
-const socialImageURL = new URL(
-  ogImage ? ogImage : SITE.ogImage,
-  Astro.url.origin
-).href;
+const socialImageURL = new URL(ogImage, Astro.url.origin).href;
 ---
 
 <!DOCTYPE html>
