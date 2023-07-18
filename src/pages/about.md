@@ -1,6 +1,6 @@
 ---
-layout: ../layouts/AboutLayout.astro
-title: "About"
+layout: ../layouts/TopLevelPage.astro
+title: "Acerca de mí"
 ---
 
 ¡Hola! Te invito a conocer este pequeño espacio profesional y personal :-)

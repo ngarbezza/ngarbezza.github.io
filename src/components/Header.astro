@@ -6,8 +6,9 @@ import LinkButton from "./LinkButton.astro";
 import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
+// TODO: better typing (only valid pages)
 export interface Props {
-  activeNav?: "blog" | "tags" | "about" | "search";
+  activeNav?: string;
 }
 
 const { activeNav } = Astro.props;
@@ -58,9 +59,18 @@ const { activeNav } = Astro.props;
           </svg>
         </button>
         <ul id="menu-items" class="display-none sm:flex">
+          <!-- TODO: iterate over all pages -->
           <li>
             <a href="/blog" class={activeNav === "blog" ? "active" : ""}>
               Blog
+            </a>
+          </li>
+          <li>
+            <a
+              href="/docencia"
+              class={activeNav === "docencia" ? "active" : ""}
+            >
+              Docencia
             </a>
           </li>
           <li>

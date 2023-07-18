@@ -13,10 +13,12 @@ export interface Props {
 }
 
 const { frontmatter } = Astro.props;
+<!-- TODO: extract to helper? -->
+const currentPage = Astro.url.pathname.replace(/\/+/, "");
 ---
 
 <Layout title={`${frontmatter.title} | ${SITE.title}`}>
-  <Header activeNav="about" />
+  <Header activeNav={currentPage} />
   <Breadcrumbs />
   <main id="main-content">
     <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
