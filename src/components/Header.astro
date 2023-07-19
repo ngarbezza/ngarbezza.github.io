@@ -5,6 +5,7 @@ import LinkButton from "./LinkButton.astro";
 
 import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
+import { NAV_ITEMS } from "../config";
 
 // TODO: better typing (only valid pages)
 export interface Props {
@@ -59,30 +60,18 @@ const { activeNav } = Astro.props;
           </svg>
         </button>
         <ul id="menu-items" class="display-none sm:flex">
-          <!-- TODO: iterate over all pages -->
-          <li>
-            <a href="/blog" class={activeNav === "blog" ? "active" : ""}>
-              Blog
-            </a>
-          </li>
-          <li>
-            <a
-              href="/docencia"
-              class={activeNav === "docencia" ? "active" : ""}
-            >
-              Docencia
-            </a>
-          </li>
-          <li>
-            <a href="/tags" class={activeNav === "tags" ? "active" : ""}>
-              Tags
-            </a>
-          </li>
-          <li>
-            <a href="/about" class={activeNav === "about" ? "active" : ""}>
-              About
-            </a>
-          </li>
+          {
+            NAV_ITEMS.map(item => (
+              <li>
+                <a
+                  href={`/${item.slug}`}
+                  class={activeNav === item.slug ? "active" : ""}
+                >
+                  {item.name}
+                </a>
+              </li>
+            ))
+          }
           <li>
             <LinkButton
               href="/search"

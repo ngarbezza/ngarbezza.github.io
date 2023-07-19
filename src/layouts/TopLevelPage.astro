@@ -13,7 +13,7 @@ export interface Props {
 }
 
 const { frontmatter } = Astro.props;
-<!-- TODO: extract to helper? -->
+// TODO: extract to helper?
 const currentPage = Astro.url.pathname.replace(/\/+/, "");
 ---
 
@@ -21,7 +21,7 @@ const currentPage = Astro.url.pathname.replace(/\/+/, "");
   <Header activeNav={currentPage} />
   <Breadcrumbs />
   <main id="main-content">
-    <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
+    <section class="prose mb-28 max-w-3xl prose-img:border-0">
       <h1 class="text-2xl tracking-wider sm:text-3xl">{frontmatter.title}</h1>
       <slot />
     </section>

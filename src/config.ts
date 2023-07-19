@@ -141,3 +141,10 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
 ];
+
+export const NAV_ITEMS = [
+  { name: "Blog", slug: "blog" },
+  { name: "Docencia", slug: "docencia" },
+  { name: "Tags", slug: "tags" },
+  { name: "Acerca de mí", slug: "about" },
+];
