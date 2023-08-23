@@ -3,6 +3,7 @@ import { SITE } from "@config";
 import "@styles/base.css";
 
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
+const googleAnalyticsTagId = import.meta.env.PUBLIC_GOOGLE_ANALYTICS_TAG_ID;
 
 export interface Props {
   title?: string;
@@ -69,6 +70,22 @@ const socialImageURL = new URL(ogImage, Astro.url.origin).href;
           name="google-site-verification"
           content={googleSiteVerification}
         />
+      )
+    }
+
+    {
+      googleAnalyticsTagId && (
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XVLT22J2WF"
+          ></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag() {
+            dataLayer.push(arguments);
+          }
+          gtag("js", new Date());
+
+          gtag("config", "G-XVLT22J2WF");
+        </script>
       )
     }
 
