@@ -1,4 +1,4 @@
 ---
-layout: ../layouts/TopLevelPage.astro
+layout: ../../layouts/TopLevelPage.astro
 title: "Tesis de Licenciatura (UNQ)"
 ---
