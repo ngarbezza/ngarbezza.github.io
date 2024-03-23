@@ -75,15 +75,15 @@ const socialImageURL = new URL(ogImage, Astro.url.origin).href;
 
     {
       googleAnalyticsTagId && (
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XVLT22J2WF"></script>
-        <script>
+        <script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-XVLT22J2WF"></script>
+        <script type="text/partytown">
           window.dataLayer = window.dataLayer || [];
           function gtag() {
             dataLayer.push(arguments);
           }
           gtag("js", new Date());
 
-          gtag("config", "G-XVLT22J2WF");
+          gtag('config', 'G-XVLT22J2WF');
         </script>
       )
     }

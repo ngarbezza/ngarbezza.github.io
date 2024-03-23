@@ -12,9 +12,8 @@ otrxs desarrolladorxs en su crecimiento. Trabajé con varios clientes en varias 
 grupos de gestión, principalmente orientados a lo técnico, dentro de 10Pines.
 
 Soy Licenciado en Informática de la [Universidad Nacional de Quilmes (UNQ)](https://unq.edu.ar). Mi
-[trabajo de tesis](/proyectos/tesis-licenciatura-unq) fue la implementación de refactorings en
-[Cuis Smalltalk](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev), un proyecto al que admiro mucho y he
-realizado varias contribuciones.
+[trabajo de tesis](/proyectos/tesis-licenciatura-unq) fue la implementación de refactorings en [Cuis Smalltalk](https://cuis.st/), un proyecto al que
+admiro mucho y he realizado varias contribuciones.
 
 Llevo más de 10 años en la [docencia](/docencia) universitaria, particularmente de programación orientada a objetos. Dicté
 clases en la materia de "Programación con Objetos 1" en la UNQ, y en la materia de "Programación Orientada a Objetos 2"
